@@ -1,0 +1,8 @@
+{
+    "tls":{
+        "pkey": "tls/https.key",
+        "cert": "tls/https.cert"
+    },
+    "host": "localhost",
+    "port": ":8443"
+}
